@@ -1,0 +1,26 @@
+{
+  "name": "marta-app-react-assessment",
+  "version": "1.0.0",
+  "description": "Simple app to search for and display selected buses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainbojack1/marta-app-react-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainbojack1/marta-app-react-assessment/issues"
+  },
+  "homepage": "https://github.com/rainbojack1/marta-app-react-assessment#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
