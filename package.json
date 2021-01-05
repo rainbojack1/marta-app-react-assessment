@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/rainbojack1/marta-app-react-assessment#readme",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "nodemon": "^2.0.2",
     "request": "^2.88.0",
